@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="erp" uuid="0980e8ed-c1a7-458a-9a56-74f4ec8b61b1">
+      <driver-ref>fc2e3276-71a1-43ad-970d-3d0cf69d6981</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/erp?characterEncoding=UTF-8&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
